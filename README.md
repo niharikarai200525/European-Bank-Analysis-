@@ -28,7 +28,7 @@ streamlit run app.py
 
 `app.py` reads `European_Bank.csv` from its own folder; if the file is missing it shows an upload box.
 
-## Rebuild all outputs
+## Rebuild all outputs of project
 
 ```bash
 python scripts/build_project.py
