@@ -1,0 +1,7 @@
+segment,rule,n,churned,churn_rate,share_customers,share_churners,avg_age,avg_balance,pct_active,total_balance,churned_balance,share_churned_balance
+Product Overload,Holds 3 or 4 products (checked first),326,280,85.89,3.26,13.75,43.65,78821.79,43.56,25695903.4,24511667.26,13.21
+Inactive 50+,Age 50 or over and not an active member,434,348,80.18,4.34,17.08,55.99,88646.37,0.0,38472524.82,31656408.27,17.06
+Active 50+,Age 50 or over and an active member,869,199,22.9,8.69,9.77,60.25,76926.82,100.0,66849409.99,18518114.28,9.98
+Mid-Life Germany,"Age 40-49, Germany, 1-2 products",690,287,41.59,6.9,14.09,43.77,119664.91,44.2,82568789.0,34343930.63,18.51
+Mid-Life France & Spain,"Age 40-49, France or Spain, 1-2 products",1805,406,22.49,18.05,19.93,43.46,62302.68,48.14,112456335.2,28345215.28,15.27
+Under 40,"Age under 40, 1-2 products",5876,517,8.8,58.76,25.38,32.28,74679.36,50.48,438815930.47,48212758.91,25.98
