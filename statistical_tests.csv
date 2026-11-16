@@ -1,0 +1,15 @@
+test,variable,statistic,dof,p_value,cramers_v,median_churned,median_retained,prob_superiority
+chi-square,Number of products,1503.63,3.0,0.0,0.3878,,,
+chi-square,Age group,1282.67,4.0,1.9e-276,0.3581,,,
+chi-square,Geography,301.26,2.0,3.83e-66,0.1736,,,
+chi-square,Active membership,242.99,1.0,8.79e-55,0.1559,,,
+chi-square,Balance band,178.6,4.0,1.49e-37,0.1336,,,
+chi-square,Gender,112.92,1.0,2.25e-26,0.1063,,,
+chi-square,Credit score band,8.94,4.0,0.0627,0.0299,,,
+chi-square,Tenure band,6.19,3.0,0.103,0.0249,,,
+chi-square,Credit card ownership,0.47,1.0,0.492,0.0069,,,
+mann-whitney,Age,11874649.5,,3.21e-230,,45.0,36.0,0.7321
+mann-whitney,CreditScore,7839548.0,,0.0199,,646.0,653.0,0.4833
+mann-whitney,Tenure,7948575.5,,0.162,,5.0,5.0,0.49
+mann-whitney,Balance,9371186.5,,1.12e-28,,109349.29,92072.68,0.5777
+mann-whitney,EstimatedSalary,8250768.0,,0.227,,102460.84,99645.04,0.5087
